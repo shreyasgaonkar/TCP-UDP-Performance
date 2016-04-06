@@ -18,11 +18,13 @@ Check if ns2 is installed by - <br>
 
 Code is pretty much straight forward, change attributes as per the requirements.<br>
 
-![Packet drops during transmission](/../<branch name>/pictures/udpsetupd.png?raw=true "Packet drops during transmission")
+
+Packet drops during transmission<br>
+![Packet drops during transmission](./pictures/udpsetupd.png?raw=true "Packet drops during transmission")
 
 ## Contributing
 
-1. Fork it!
+1. Fork it
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
